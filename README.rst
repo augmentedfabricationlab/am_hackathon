@@ -1,15 +1,15 @@
 ============================================================
-mobile_additive_manufacturing: Mobile Additive Manufacturing
+am_hackathon: Additive Manufacturing Hackathon
 ============================================================
 
 .. start-badges
 
 .. image:: https://img.shields.io/badge/License-MIT-blue.svg
-    :target: https://github.com/augmentedfabricationlab/mobile_additive_manufacturing/blob/master/LICENSE
+    :target: https://github.com/augmentedfabricationlab/am_hackathon/blob/master/LICENSE
     :alt: License MIT
 
-.. image:: https://travis-ci.org/augmentedfabricationlab/mobile_additive_manufacturing.svg?branch=master
-    :target: https://travis-ci.org/augmentedfabricationlab/mobile_additive_manufacturing
+.. image:: https://travis-ci.org/augmentedfabricationlab/am_hackathon.svg?branch=master
+    :target: https://travis-ci.org/augmentedfabricationlab/am_hackathon
     :alt: Travis CI
 
 .. end-badges
@@ -26,7 +26,7 @@ Main features
 * feature
 * more features
 
-**mobile_additive_manufacturing** runs on Python x.x and x.x.
+**am_hackathon** runs on Python x.x and x.x.
 
 
 Documentation
@@ -54,7 +54,7 @@ Contributing
 
 Make sure you setup your local development environment correctly:
 
-* Clone the `mobile_additive_manufacturing <https://github.com/augmentedfabricationlab/mobile_additive_manufacturing>`_ repository.
+* Clone the `am_hackathon <https://github.com/augmentedfabricationlab/am_hackathon>`_ repository.
 * Install development dependencies and make the project accessible from Rhino:
 
 ::
