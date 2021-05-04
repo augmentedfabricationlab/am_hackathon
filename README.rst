@@ -89,4 +89,4 @@ Releasing this project
 Credits
 -------------
 
-This package was created by Gido Dielemans <gido@dlmns.nl> `@gidodielemans <https://github.com/gidodielemans>`_ at `@augmentedfabricationlab <https://github.com/augmentedfabricationlab>`_
+This package was created by Gido Dielemans `@gidodielemans <https://github.com/gidodielemans>`_ at `@augmentedfabricationlab <https://github.com/augmentedfabricationlab>`_
