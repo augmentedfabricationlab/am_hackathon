@@ -87,7 +87,7 @@ NOTE: This installs default to Rhino 7.0, if you are using a different Rhino ver
 #### AM Hackathon
     This installs your local copy of the am_hackathon in editable mode, applying updates to the local repository directly into the rhino environment!
     (amh) python -m pip install -e <your_path>/<your_repository_name>
-    (amh) python -m compas_rhino.install -p computational_design_and_fabrication -v7.0
+    (amh) python -m compas_rhino.install -p am_hackathon
 
 --------------
 #### 4. Credits
